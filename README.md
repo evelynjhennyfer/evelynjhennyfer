@@ -1,3 +1,3 @@
-### Hi there 👋
+Hi there 👋
 
-evelyn e jhennyfer estudantes de pensamento computacional
+<i>evelyn e jhennyfer estudantes de pensamento computacional</i>
