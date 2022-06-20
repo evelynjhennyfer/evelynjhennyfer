@@ -24,5 +24,4 @@ Hi there 👋
 
 <figure>
   <img src="https://pm1.narvii.com/6793/6a586d6f5f3188f07773349fd1e40eca9266e18dv2_hq.jpg" alt="Minha Figura">
-  <figcaption>Informações da Figura</figcaption>
 </figure>
